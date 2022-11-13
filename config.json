@@ -1,0 +1,133 @@
+{
+  "name": "Tadeu Silveira (Tecnolgia da Informação)",
+  "job": "Tecnologia da Informação",
+  "github": "tadeusilveira",
+  "playlists": {
+    "Tecnologia da Informação": [
+      {
+        "title": "Sua Segurança é uma DROGA | Gerenciadores de Senhas, 2FA, Encriptação",
+        "url": "https://www.youtube.com/watch?v=s7ldn31OEFc",
+        "thumb": "https://img.youtube.com/vi/s7ldn31OEFc/maxresdefault.jpg"
+    },
+    {
+        "title": "Como Funciona o Boot de um Linux? | O que tem num LiveCD?",
+        "url": "https://www.youtube.com/watch?v=5F6BbhgvFOE",
+        "thumb": "https://img.youtube.com/vi/5F6BbhgvFOE/maxresdefault.jpg"
+    },
+    {
+        "title": "Cadê o Disco C: do Linux? - Entenda a estrutura de diretórios!",
+        "url": "https://www.youtube.com/watch?v=90UseHX4-ns",
+        "thumb": "https://img.youtube.com/vi/90UseHX4-ns/maxresdefault.jpg"
+    },
+    {
+        "title": "Kali Linux - Conheça o sistema dos Hackers",
+        "url": "https://www.youtube.com/watch?v=Ka8V-9YmSjE",
+        "thumb": "https://img.youtube.com/vi/Ka8V-9YmSjE/maxresdefault.jpg"
+    },
+    {
+        "title": "Como funcionam as LINGUAGENS de PROGRAMAÇÃO",
+        "url": "https://www.youtube.com/watch?v=22nd99SLgNA",
+        "thumb": "https://img.youtube.com/vi/22nd99SLgNA/maxresdefault.jpg"
+    },
+    {
+        "title": "Instalando Kali Linux no Virtualbox 2022",
+        "url": "https://www.youtube.com/watch?v=nowpUboS2o0",
+        "thumb": "https://img.youtube.com/vi/nowpUboS2o0/maxresdefault.jpg"
+    },
+    {
+        "title": "Como HACKEARAM os políticos? Foi simples!",
+        "url": "https://www.youtube.com/watch?v=MTB6JKL-UFw",
+        "thumb": "https://img.youtube.com/vi/MTB6JKL-UFw/maxresdefault.jpg"
+    },
+    {
+        "title": "Rastrear o Endereço de Alguém na Internet: É possível?",
+        "url": "https://www.youtube.com/watch?v=6WZox0-Tc3k",
+        "thumb": "https://img.youtube.com/vi/6WZox0-Tc3k/maxresdefault.jpg"
+    }
+],
+"front-end": [
+    {
+        "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
+        "url": "https://youtube.com/watch?v=jOAU81jdi-c",
+        "thumb": "https://img.youtube.com/vi/jOAU81jdi-c/hqdefault.jpg"
+    },
+    {
+        "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
+        "url": "https://www.youtube.com/watch?v=llF6vD-RljE",
+        "thumb": "https://img.youtube.com/vi/llF6vD-RljE/hqdefault.jpg"
+    },
+    {
+        "title": "A Primeira Aula de Flutter Que Todo Mundo Deveria Ter",
+        "url": "https://www.youtube.com/watch?v=J4BVaXkwmM8",
+        "thumb": "https://img.youtube.com/vi/J4BVaXkwmM8/hqdefault.jpg"
+    },
+    {
+        "title": "O QUE SÃO FRAMEWORKS E BIBLIOTECAS? QUAIS AS DIFERENÇAS?",
+        "url": "https://www.youtube.com/watch?v=dp0zB4n3MUs",
+        "thumb": "https://img.youtube.com/vi/dp0zB4n3MUs/hqdefault.jpg"
+    },
+    {
+        "title": "Angular (O Vídeo que Você Precisava para Começar no Framework) // Dicionário do Programador",
+        "url": "https://www.youtube.com/watch?v=Yf0rC7dERjg",
+        "thumb": "https://img.youtube.com/vi/Yf0rC7dERjg/hqdefault.jpg"
+    },
+    {
+        "title": "Como Foi Programado um App Que Faz Mágica",
+        "url": "https://www.youtube.com/watch?v=I36seuWUe5s",
+        "thumb": "https://img.youtube.com/vi/I36seuWUe5s/hqdefault.jpg"
+    },
+    {
+        "title": "O que todo iniciante em Front End deveria aprender | Como manipular arrays e objetos em JavaScript",
+        "url": "https://www.youtube.com/watch?v=yS7AcF-xRUg",
+        "thumb": "https://img.youtube.com/vi/yS7AcF-xRUg/hqdefault.jpg"
+    },
+    {
+        "title": "5 Erros Históricos do CSS",
+        "url": "https://www.youtube.com/watch?v=HNjkqONzGS0",
+        "thumb": "https://img.youtube.com/vi/HNjkqONzGS0/hqdefault.jpg"
+    },
+    {
+        "title": "Deploy de Front End ATUALIZADO! | O que eu uso para hospedagem de Front End",
+        "url": "https://www.youtube.com/watch?v=d9c0r-J6CdM",
+        "thumb": "https://img.youtube.com/vi/d9c0r-J6CdM/hqdefault.jpg"
+    }
+],
+"back-end": [
+    {
+        "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+        "url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
+        "thumb": "https://img.youtube.com/vi/dvd3pNYh7So/hqdefault.jpg"
+    },
+    {
+        "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+        "url": "https://www.youtube.com/watch?v=8q36rNS5yVo",
+        "thumb": "https://img.youtube.com/vi/8q36rNS5yVo/hqdefault.jpg"
+    },
+    {
+        "title": "O que é o Java? #HipstersPontoTube",
+        "url": "https://www.youtube.com/watch?v=90NcVNsKGik",
+        "thumb": "https://img.youtube.com/vi/90NcVNsKGik/hqdefault.jpg"
+    },
+    {
+        "title": "O que é Machine Learning? #HipstersPontoTube",
+        "url": "https://www.youtube.com/watch?v=Iuz_jc96bQk",
+        "thumb": "https://img.youtube.com/vi/Iuz_jc96bQk/hqdefault.jpg"
+    },
+    {
+        "title": "A MELHOR linguagem de programação com Fabio Akita | #HipstersPontoTube",
+        "url": "https://www.youtube.com/watch?v=imB0QVoNrGc",
+        "thumb": "https://img.youtube.com/vi/imB0QVoNrGc/hqdefault.jpg"
+    },
+    {
+        "title": "Top 5 libs que todo aplicativo Android deve ter com Alex Felipe | #HipstersPontoTube",
+        "url": "https://www.youtube.com/watch?v=ldRbnpy-qQs",
+        "thumb": "https://img.youtube.com/vi/ldRbnpy-qQs/hqdefault.jpg"
+    },
+    {
+        "title": "O que é o C#? #HipstersPontoTube",
+        "url": "https://www.youtube.com/watch?v=0JWMVc1CqpA",
+        "thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
+    }
+]
+}
+}
